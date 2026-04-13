@@ -1,26 +1,34 @@
-# Netflix Data Analysis Project
+# 📊 Netflix Data Analysis Project
 
-## Objective
+## 📌 Overview
 
-To analyze Netflix dataset and uncover trends in content distribution.
+This project analyzes Netflix's content dataset using Python to uncover trends in content distribution, production, and release patterns.
 
-## Tools Used
+## 🛠 Tools & Technologies
 
 * Python (Pandas, Matplotlib)
 * Google Colab
 
-## Key Insights
+## 📂 Dataset
+
+The dataset includes information about Netflix movies and TV shows such as title, type, country, release year, rating, and duration.
+
+## 📊 Analysis Performed
+
+* Movies vs TV Shows distribution
+* Top content-producing countries
+* Year-wise content release trends
+
+## 📈 Key Insights
 
 * Movies dominate Netflix content (~70%)
-* The United States is the largest content producer
-* Content release has increased significantly over time
+* United States is the largest contributor
+* Content production increased significantly after 2015
 
-## Visualizations
+## 📷 Visualizations
 
-* Movies vs TV Shows chart
-* Top countries analysis
-* Release trend graph
+Screenshots of charts are included in the Screenshots folder.
 
-## Conclusion
+## 🚀 Conclusion
 
-This project demonstrates beginner-level data analysis using Python, including data exploration, visualization, and insight generation.
+This project demonstrates beginner-level exploratory data analysis (EDA) using Python and highlights key trends in Netflix content.
